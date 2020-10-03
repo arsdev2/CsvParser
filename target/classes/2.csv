@@ -1,0 +1,9 @@
+"",TEAM_BEAUJOLAIS,TEAM_REGSERV,TEAM_LOIRE,TEAM_RHONE,TEAM_TECH,TEAM_ALSACE,MISC
+Blocker,11,8,0,0,0,1,6
+Critical,22,10,3,0,0,0,6
+Major,23,5,4,0,0,4,5
+Medium,0,0,0,0,0,0,0
+Minor,4,0,7,0,0,1,2
+Normal,0,0,0,0,0,0,0
+Total,60,23,14,0,0,6,19
+Unresolved,52,16,13,0,0,4,6
